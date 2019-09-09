@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Puppeteer with Angular exmple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavbhuva/puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "puppeteer with angular",
+    "Chromium"
+  ],
+  "author": "Vaibhav Bhuva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavbhuva/puppeteer/issues"
+  },
+  "homepage": "https://github.com/vaibhavbhuva/puppeteer#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "puppeteer": "^1.19.0"
+  }
+}
