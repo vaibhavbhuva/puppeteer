@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/vaibhavbhuva/puppeteer#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "puppeteer": "^1.19.0"
   }
 }
